@@ -1,8 +1,9 @@
 ## Hi, I'm Sakshi 🪄
 
 🧠 Computer Science (AI & ML) student at BIT Mesra<br/>
+💻 I have also worked on many Data Analytics projects<br/>
 📲 I have developed few React Native based applications<br/>
-💻I have also worked on many Data Analytics projects<br/>
+
 
 
 
