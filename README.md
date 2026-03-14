@@ -1,18 +1,38 @@
-# 💫 About Me:
-I'm Sakshi, a developer exploring Data Analytics, Machine Learning, and backend systems. I enjoy working with Python, SQL, and data pipelines, and I'm building projects that combine clean engineering with practical problem-solving.
+# Hi, I'm Sakshi 👋
 
+I'm a 3rd-year B.Tech student in **AI & Machine Learning** at BIT Mesra (CGPA: 8.7), with hands-on experience in backend engineering, data analytics, and applied ML.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshi240905@gmail.com) 
+I've interned at two companies building real systems — an ERP procurement automation at AxisPoints and a RAG-based document QA pipeline at Mecon Ltd. Outside internships, I build projects that combine clean engineering with practical data storytelling.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakshi2433&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sakshi2433&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2433&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently preparing for placements in **SDE, Data Analyst, and Data Scientist** roles.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sakshi2433&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 What I work with
+
+**Languages & Tools** — Python, SQL, PostgreSQL, Git, XML  
+**Data & Analytics** — Pandas, NumPy, Power BI, DAX, Matplotlib, Seaborn, Streamlit  
+**ML / AI** — Scikit-Learn, PyTorch, NLP (NLTK), Time Series (Prophet), RAG, FAISS, Transformer Embeddings  
+**Backend** — Odoo ORM, REST APIs, PostgreSQL, workflow automation  
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Walmart Sales Forecasting](https://github.com/grv00734/Sparkathon_inventory) | Forecasts weekly sales across 45 stores with holiday & seasonality features | Prophet, Pandas, Streamlit |
+| [Customer Complaint NLP Analysis](https://github.com/sakshi2433/customer-support-nlp-analytics) | Sentiment + trend analysis on 50,000+ complaints | Python, NLTK, Matplotlib |
+| [Retail Sales Insights Dashboard](https://github.com/sakshi2433/retail-sales-insight-dashboard) | Multi-page Power BI dashboard with 15+ DAX KPI measures | Power BI, DAX |
+| [E-Commerce SQL Analytics](https://github.com/sakshi2433/ecommerce-sql-analytics) | Cohort retention, CLV, RFM segmentation using advanced SQL | PostgreSQL, CTEs, Window Functions |
+
+---
+
+## 📬 Let's connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshi240905@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sakshi2433)
+
+---
+
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi2433&show_icons=true&hide_border=true&theme=default&count_private=false)
